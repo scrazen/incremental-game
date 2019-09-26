@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/incremental-game/precache-manifest.ed0681207a72a0e156095e07d209a337.js"
+  "/incremental-game/precache-manifest.7b374fdcb88aac078790f0e50ce9fec5.js"
 );
 
 self.addEventListener('message', (event) => {

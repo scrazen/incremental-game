@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/incremental-game/static/css/main.b100e6da.chunk.css",
-    "main.js": "/incremental-game/static/js/main.4f9078c0.chunk.js",
-    "main.js.map": "/incremental-game/static/js/main.4f9078c0.chunk.js.map",
+    "main.css": "/incremental-game/static/css/main.25e674b8.chunk.css",
+    "main.js": "/incremental-game/static/js/main.da1a3698.chunk.js",
+    "main.js.map": "/incremental-game/static/js/main.da1a3698.chunk.js.map",
     "runtime-main.js": "/incremental-game/static/js/runtime-main.d0d415c4.js",
     "runtime-main.js.map": "/incremental-game/static/js/runtime-main.d0d415c4.js.map",
-    "static/js/2.16919252.chunk.js": "/incremental-game/static/js/2.16919252.chunk.js",
-    "static/js/2.16919252.chunk.js.map": "/incremental-game/static/js/2.16919252.chunk.js.map",
+    "static/js/2.d389e2e6.chunk.js": "/incremental-game/static/js/2.d389e2e6.chunk.js",
+    "static/js/2.d389e2e6.chunk.js.map": "/incremental-game/static/js/2.d389e2e6.chunk.js.map",
     "index.html": "/incremental-game/index.html",
-    "precache-manifest.ed0681207a72a0e156095e07d209a337.js": "/incremental-game/precache-manifest.ed0681207a72a0e156095e07d209a337.js",
+    "precache-manifest.7b374fdcb88aac078790f0e50ce9fec5.js": "/incremental-game/precache-manifest.7b374fdcb88aac078790f0e50ce9fec5.js",
     "service-worker.js": "/incremental-game/service-worker.js",
-    "static/css/main.b100e6da.chunk.css.map": "/incremental-game/static/css/main.b100e6da.chunk.css.map",
-    "static/media/logo.svg": "/incremental-game/static/media/logo.25bf045c.svg"
+    "static/css/main.25e674b8.chunk.css.map": "/incremental-game/static/css/main.25e674b8.chunk.css.map"
   }
 }

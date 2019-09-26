@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "02dba115b597178535e8566f1ce2d6a4",
+    "revision": "36e6d196744a9dcb9d5689be5344d6fa",
     "url": "/incremental-game/index.html"
   },
   {
-    "revision": "697d99bb0cb655c89384",
+    "revision": "3a28e970b8e19942af7c",
     "url": "/incremental-game/static/css/main.b100e6da.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/incremental-game/static/js/2.16919252.chunk.js"
   },
   {
-    "revision": "697d99bb0cb655c89384",
-    "url": "/incremental-game/static/js/main.fee05051.chunk.js"
+    "revision": "3a28e970b8e19942af7c",
+    "url": "/incremental-game/static/js/main.4f9078c0.chunk.js"
   },
   {
     "revision": "4f2be9a7e775ca9f714d",
